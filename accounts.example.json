@@ -1,0 +1,15 @@
+{
+  "description": "小红书账号监测列表",
+  "accounts": [
+    {
+      "name": "账号备注名",
+      "user_id": "小红书用户ID",
+      "note": "备注说明（可选）"
+    },
+    {
+      "name": "示例账号",
+      "user_id": "从用户主页URL获取，如 https://www.xiaohongshu.com/user/profile/xxxxx 中的 xxxxx",
+      "note": "竞品"
+    }
+  ]
+}

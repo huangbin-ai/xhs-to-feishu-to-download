@@ -3,5 +3,6 @@ __pycache__/
 .DS_Store
 .env
 keywords.json
+accounts.json
 results/
 *.log
